@@ -30,6 +30,14 @@ The analysis addresses regional disparities, economic mobility, digital access, 
 
 ## 📈 Dashboards
 
+### 🔗 View Interactive Dashboards on Tableau Public
+
+- **Social and Educational Insights**  
+  [View Dashboard 1](https://public.tableau.com/app/profile/shweta.vinod.kulkarni2486/viz/ImpactofSocioeconomicFactorsintheUnitedStates/SocialandEducationalInsights)
+
+- **Economic and Social Insights**  
+  [View Dashboard 2](https://public.tableau.com/app/profile/shweta.vinod.kulkarni2486/viz/ImpactofSocioeconomicFactorsintheUnitedStates2/EconomicandSocialInsights)
+
 ### Dashboard 1: Education Poverty Internet and Demographics
 
 ![Dashboard 1](Dashboard1.png)
